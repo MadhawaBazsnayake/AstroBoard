@@ -2,94 +2,93 @@
 <h3 align="center">A Next-Generation Infinite Canvas Smart Whiteboard</h3>
 
 <p align="center">
-  <b>Designed for educators. Powered for creativity.</b><br/>
-  ♾️ Infinite Space • 🧠 Smart Recognition • ⚡ Zero Latency
+  <b>Designed for educators. Engineered for precision.</b><br/>
+  ♾️ Infinite Space • 🧠 Algorithmic Shape Recognition • ⚡ Zero-Latency UX
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/MadhawaBazsnayake/AstroBoard?style=for-the-badge&color=gold"/>
   <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge"/>
 </p>
-
----
-
-<h2>🌌 About AstroBoard</h2>
-
-<p>
-AstroBoard is an <b>open-source, high-performance infinite-canvas smart whiteboard</b> 
-built to redefine the digital classroom experience.
-</p>
-
-<p>
-It transforms <i>messy sketches into perfect geometric shapes</i> while giving you an 
-endless space to think, teach, and create. Built with a focus on fluidity, it's 
-tailored for teachers who use smart boards and need a professional yet simple tool.
-</p>
-
-<blockquote>
-💡 <b>Why AstroBoard?</b><br/>
-Most whiteboards are limited by pixels.<br/>
-<b>AstroBoard is limited only by your imagination.</b>
-</blockquote>
-
----
-
-<h2>✨ Key Features</h2>
-
-<ul>
-  <li>♾️ <b>Infinite Universe</b> – Seamless canvas with unlimited zoom & pan for complex lessons.</li>
-  <li>🧠 <b>Smart-Snap Logic</b> – Advanced algorithms that auto-detect and perfect hand-drawn shapes.</li>
-  <li>🎭 <b>Contextual Templates</b> – Switch between Dot-Grid, Ruled lines, Music staves, and Math grids.</li>
-  <li>🌓 <b>Adaptive Dark Mode</b> – Smart UI that respects eye health with high-contrast stroke adjustment.</li>
-  <li>⚡ <b>Zero-Latency Engine</b> – Optimized rendering for a natural, pen-on-paper feel.</li>
-  <li>🪄 <b>Interactive Tools</b> – Specialized Laser pointer for focus and Highlighting markers.</li>
-  <li>📥 <b>Pro Export</b> – Export your entire board as high-quality PNG for student notes.</li>
-</ul>
-
----
-
-<h2>📸 Preview</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MadhawaBazsnayake/AstroBoard/refs/heads/main/%7B1246B0F8-9508-4B9D-B60D-CF92C705E23E%7D.png"/>
-  <br/>
-  <i>(Replace this with your actual AstroBoard screenshot or GIF)</i>
+  <a href="https://astroboard.pages.dev/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20AstroBoard-14b8a6?style=for-the-badge&logo=rocket"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="#-about-the-project">About</a> •
+  <a href="#-key-features">Features</a> •
+  <a href="#-technical-deep-dive">Technical Details</a> •
+  <a href="#-keyboard-shortcuts">Shortcuts</a> •
+  <a href="#-roadmap">Roadmap</a>
 </p>
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+## 🌌 About the Project
 
-<table align="center" width="100%">
-<tr>
-<td width="30%"><b>Canvas Engine</b></td>
-<td>Fabric.js</td>
-</tr>
-<tr>
-<td><b>Styling Framework</b></td>
-<td>Tailwind CSS</td>
-</tr>
-<tr>
-<td><b>Animation Engine</b></td>
-<td>GSAP (GreenSock)</td>
-</tr>
-<tr>
-<td><b>Icon Library</b></td>
-<td>Lucide React Icons</td>
-</tr>
-<tr>
-<td><b>Core Math Engine</b></td>
-<td>Custom Geometric Analysis (Shoelace & Douglas-Peucker Algorithms)</td>
-</tr>
-</table>
+**AstroBoard** is an open-source, high-performance infinite-canvas smart whiteboard designed to redefine the digital classroom experience. Built with a focus on fluid interaction and intelligent assistance, it bridges the gap between natural handwriting and precise digital assets.
+
+Unlike traditional whiteboards limited by pixel boundaries, AstroBoard treats the screen as an expanding galaxy, allowing educators to build complex, multi-layered lessons without ever running out of space.
 
 ---
 
-<h2>🚀 Getting Started</h2>
+## ✨ Key Features
 
-<h3>📥 Clone the Galaxy</h3>
+* **♾️ Seamless Infinite Canvas** – Pan and zoom across an unlimited workspace without performance degradation.
+* **🧠 Smart-Snap Recognition** – Custom-built logic that instantly perfects hand-drawn sketches into geometric primitives (Circles, Rectangles, Triangles, Diamonds).
+* **🎭 Contextual Education Templates** – One-click switching between **Dot-Grids**, **Ruled Paper**, **Music Staves**, and **Mathematical Grids**.
+* **⚡ Zero-Latency Rendering** – Optimized path processing ensures a pen-on-paper feeling, even on lower-end smart board hardware.
+* **🌓 Adaptive Theming** – A sophisticated Dark Mode that intelligently flips stroke contrast to ensure maximum visibility and reduced eye strain.
+* **🪄 Presentation Suite** – Includes a fading Laser Pointer for dynamic focus and a highlighting Marker for key annotations.
 
-```bash
-git clone [[https://github.com/Madhhttps://github.com/MadhawaBazsnayake/AstroBoard.git))
+---
+
+## 📸 Interface Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MadhawaBazsnayake/AstroBoard/refs/heads/main/%7B1246B0F8-9508-4B9D-B60D-CF92C705E23E%7D.png" alt="AstroBoard Interface" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);"/>
+</p>
+
+---
+
+## 🛠️ Technical Deep Dive
+
+AstroBoard isn't just a drawing app; it's a showcase of **Vector Math** and **Pattern Recognition** logic.
+
+### 📐 Algorithmic Shape Detection
+The **Smart-Snap** feature utilizes a hybrid approach:
+1.  **Douglas-Peucker Algorithm:** Simplifies complex hand-drawn paths into their essential geometric skeletons by reducing redundant points.
+2.  **Shoelace Formula:** Calculates the signed area of a drawn polygon to determine "Fill Ratios," allowing the system to distinguish between a Triangle (approx. 0.5 fill) and a Rectangle (approx. 1.0 fill).
+3.  **Geometric Feature Analysis:** Analyzes corner counts and radius variance to identify circles and lines with high confidence.
+
+### 🏗️ Tech Stack
+* **Canvas Engine:** [Fabric.js](http://fabricjs.com/) (Object-based vector manipulation)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Animations:** [GSAP](https://greensock.com/gsap/) (High-performance UI transitions)
+* **Icons:** [Lucide React](https://lucide.dev/)
+* **Deployment:** Cloudflare Pages
+
+---
+
+## ⌨️ Keyboard Shortcuts
+
+| Action | Key | Action | Key |
+| :--- | :--- | :--- | :--- |
+| **Select Mode** | `V` | **Sticky Note** | `S` |
+| **Pen Tool** | `P` | **Text Tool** | `T` |
+| **Marker** | `M` | **Color Palette** | `C` |
+| **Laser Pointer** | `L` | **Eraser** | `E` |
+| **Undo / Redo** | `Ctrl+Z` / `Y` | **Pan Canvas** | `Space + Drag` |
+
+---
+
+## 🚀 Installation & Contribution
+
+1. **Clone the Galaxy:**
+   ```bash
+   git clone [https://github.com/MadhawaBazsnayake/AstroBoard.git](https://github.com/MadhawaBazsnayake/AstroBoard.git)
