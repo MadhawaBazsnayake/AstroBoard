@@ -1,80 +1,95 @@
-# AstroBoard
-A next-generation, infinite-canvas smart whiteboard designed for educators. Featuring real-time shape recognition (Smart-Snap), subject-specific templates, and a zero-latency drawing experience.
+<h1 align="center">🚀 AstroBoard</h1>
+<h3 align="center">A Next-Generation Infinite Canvas Smart Whiteboard</h3>
 
-AstroBoard is an open-source, high-performance infinite-canvas smart whiteboard designed to redefine the digital classroom experience. Built with a focus on fluidity and intelligence, it transforms messy sketches into perfect geometric shapes while providing an endless space for ideas to grow.
+<p align="center">
+  <b>Designed for educators. Powered for creativity.</b><br/>
+  ♾️ Infinite Space • 🧠 Smart Recognition • ⚡ Zero Latency
+</p>
 
-[!TIP]
-Why AstroBoard? Most whiteboards are limited by pixels. AstroBoard is limited only by your imagination.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge"/>
+</p>
 
-✨ Key Features
-♾️ Infinite Universe: A seamless canvas with zero boundaries. Zoom and pan with fluid precision.
+---
 
-🧠 Smart-Snap Logic: Custom geometric feature analysis that detects and "snaps" hand-drawn sketches into perfect circles, rectangles, triangles, and lines.
+<h2>🌌 About AstroBoard</h2>
 
-🎭 Contextual Templates: Instantly switch between Ruled Lines, Grid Paper, Music Staves, or Dot Grids.
+<p>
+AstroBoard is an <b>open-source, high-performance infinite-canvas smart whiteboard</b> 
+built to redefine the digital classroom experience.
+</p>
 
-🌓 Adaptive Dark Mode: A stunning UI that respects your eyes. Themes automatically adjust stroke colors for maximum visibility.
+<p>
+It transforms <i>messy sketches into perfect geometric shapes</i> while giving you an 
+endless space to think, teach, and create. Built with a focus on fluidity, it's 
+tailored for teachers who use smart boards and need a professional yet simple tool.
+</p>
 
-⚡ Zero-Latency Engine: Optimized rendering for a natural, pen-on-paper feeling.
+<blockquote>
+💡 <b>Why AstroBoard?</b><br/>
+Most whiteboards are limited by pixels.<br/>
+<b>AstroBoard is limited only by your imagination.</b>
+</blockquote>
 
-🪄 Interactive Tools: Features a disappearing Laser Pointer for focus and a Marker for highlighting.
+---
 
-📥 Pro Export: Export your creations in high-fidelity PNG formats.
+<h2>✨ Key Features</h2>
 
-📸 Preview
-(Add a high-quality screenshot or a GIF of the whiteboard here)
+<ul>
+  <li>♾️ <b>Infinite Universe</b> – Seamless canvas with unlimited zoom & pan for complex lessons.</li>
+  <li>🧠 <b>Smart-Snap Logic</b> – Advanced algorithms that auto-detect and perfect hand-drawn shapes.</li>
+  <li>🎭 <b>Contextual Templates</b> – Switch between Dot-Grid, Ruled lines, Music staves, and Math grids.</li>
+  <li>🌓 <b>Adaptive Dark Mode</b> – Smart UI that respects eye health with high-contrast stroke adjustment.</li>
+  <li>⚡ <b>Zero-Latency Engine</b> – Optimized rendering for a natural, pen-on-paper feel.</li>
+  <li>🪄 <b>Interactive Tools</b> – Specialized Laser pointer for focus and Highlighting markers.</li>
+  <li>📥 <b>Pro Export</b> – Export your entire board as high-quality PNG for student notes.</li>
+</ul>
 
-🛠️ Tech Stack
-Engine: Fabric.js (Canvas manipulation)
+---
 
-Styling: Tailwind CSS
+<h2>📸 Preview</h2>
 
-Animation: GSAP
+<p align="center">
+  <img src="https://via.placeholder.com/800x450.png?text=AstroBoard+Interface+Preview" alt="AstroBoard Screenshot"/>
+  <br/>
+  <i>(Replace this with your actual AstroBoard screenshot or GIF)</i>
+</p>
 
-Icons: Lucide-React
+---
 
-Math: Custom Shoelace & Douglas-Peucker Algorithms for shape detection.
+<h2>🛠️ Tech Stack</h2>
 
-🚀 Getting Started
-Clone the Galaxy:
+<table align="center" width="100%">
+<tr>
+<td width="30%"><b>Canvas Engine</b></td>
+<td>Fabric.js</td>
+</tr>
+<tr>
+<td><b>Styling Framework</b></td>
+<td>Tailwind CSS</td>
+</tr>
+<tr>
+<td><b>Animation Engine</b></td>
+<td>GSAP (GreenSock)</td>
+</tr>
+<tr>
+<td><b>Icon Library</b></td>
+<td>Lucide React Icons</td>
+</tr>
+<tr>
+<td><b>Core Math Engine</b></td>
+<td>Custom Geometric Analysis (Shoelace & Douglas-Peucker Algorithms)</td>
+</tr>
+</table>
 
-Bash
-git clone https://github.com/MadhawaBasnayake/AstroBoard.git
-Open the Portal:
-Simply open index.html in any modern browser (Chrome/Edge recommended). Or use Live Server in VS Code.
+---
 
-🗺️ Roadmap (Upcoming Features)
-We are building the future of EdTech! Here is what's coming:
+<h2>🚀 Getting Started</h2>
 
-[ ] Multi-user Real-time Collaboration (via Firebase/WebSockets).
+<h3>📥 Clone the Galaxy</h3>
 
-[ ] Handwriting to Text (OCR) integration.
-
-[ ] Physics Engine for interactive science diagrams.
-
-[ ] Cloud Save for lesson plans.
-
-[ ] Equation Solver (Handwrite math, get answers).
-
-🤝 Contributing
-AstroBoard is an Open Source project and we ❤️ contributions!
-
-Fork the project.
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature).
-
-Commit your changes (git commit -m 'Add some AmazingFeature').
-
-Push to the branch (git push origin feature/AmazingFeature).
-
-Open a Pull Request.
-
-Check out our Issues page to find "Good First Issues."
-
-📜 License
-Distributed under the MIT License. See LICENSE for more information.
-
-👨‍🚀 Author
-Madhawa Basnayake
-
-Give a ⭐ if you think this project is out of this world!
+```bash
+git clone [https://github.com/MadhawaBasnayake/AstroBoard.git](https://github.com/MadhawaBasnayake/AstroBoard.git)
