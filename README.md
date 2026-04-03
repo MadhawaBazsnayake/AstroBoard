@@ -53,7 +53,7 @@ Most whiteboards are limited by pixels.<br/>
 <h2>📸 Preview</h2>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=AstroBoard+Interface+Preview" alt="AstroBoard Screenshot"/>
+  <img src="https://raw.githubusercontent.com/MadhawaBazsnayake/AstroBoard/refs/heads/main/%7B1246B0F8-9508-4B9D-B60D-CF92C705E23E%7D.png"/>
   <br/>
   <i>(Replace this with your actual AstroBoard screenshot or GIF)</i>
 </p>
