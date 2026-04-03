@@ -92,4 +92,4 @@ Most whiteboards are limited by pixels.<br/>
 <h3>📥 Clone the Galaxy</h3>
 
 ```bash
-git clone [https://github.com/MadhawaBasnayake/AstroBoard.git](https://github.com/MadhawaBasnayake/AstroBoard.git)
+git clone [[https://github.com/Madhhttps://github.com/MadhawaBazsnayake/AstroBoard.git))
