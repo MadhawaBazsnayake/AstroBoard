@@ -2,7 +2,7 @@
 <h3 align="center">A Next-Generation Infinite Canvas Smart Whiteboard</h3>
 
 <p align="center">
-  <b>Designed for educators. Engineered for precision.</b><br/>
+  <b>Designed for educators. Engineered for precision .</b><br/>
   ♾️ Infinite Space • 🧠 Algorithmic Shape Recognition • ⚡ Zero-Latency UX
 </p>
 
