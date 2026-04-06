@@ -1,4 +1,4 @@
-<h1 align="center">🚀 AstroBoard</h1>
+<h1 align="center">🚀  AstroBoard</h1>
 <h3 align="center">A Next-Generation Infinite Canvas Smart Whiteboard</h3>
 
 <p align="center">
